@@ -9,10 +9,10 @@ public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostat
 
 This folder contains all standardized scripts for indicators, analysis and visualization. The folders are organized as follows:
 
-- **Analysis:** Plots, cross-tabulations, output tables...etc.
-- **Indicators**: Plain indicator calculations
-- **Logical Cleaning**: Removing and replacing values that are outside logical boundaries for the specific data points (e.g.: negative expenditures, Food Consumption > 7,…)
-- **Statistical Cleaning:** cleaning and replacing missing values based on analysis of the statistical distributions (e.g.: expenditures above the 99th percentile of the distribution,… )
+- **Analysis:** Scripts to generate plots, cross-tabulations, and output tables
+- **Indicators**: Indicator calculations used in WFP assessment and monitoring surveys
+- **Logical Cleaning**: Removing and replacing values that are outside logical boundaries for the specific data points (e.g.: negative expenditures, Food Consumption > 7)
+- **Statistical Cleaning:** Cleaning and replacing missing values based on analysis of the statistical distributions (e.g.: expenditures above the 99th percentile of the distribution)
 - **Static:** Sample files that can be used for testing all of the above
 
-_Last update_: 2022/07/27
+_Last update_: 2023/09/27
